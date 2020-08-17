@@ -7,6 +7,11 @@ permalink: /experience/
 <hr>
 # Professional
 <hr>
+![Ryde]({{ '/assets/img/ryde-logo.png' | absolute_url }}){: height="128px" width="128px"}   
+**Ryde Technologies Pte. Ltd.**  
+*Data Scientist Intern*  
+*Jul 2020 - Present*
+
 ![Oddle]({{ '/assets/img/oddle-logo.png' | absolute_url }}){: height="128px" width="128px"}   
 **The Oddle Company Pte. Ltd.**  
 *Software Test Engineer*  
