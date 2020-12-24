@@ -9,14 +9,14 @@ permalink: /experience/
 <hr>
 ![Ryde]({{ '/assets/img/ryde-logo.png' | absolute_url }}){: height="128px" width="128px"}   
 **Ryde Technologies Pte. Ltd.**  
-Data Scientist Intern
-*Jul 2020 - Dec 2020*
+Data Scientist Intern  
+*Jul 2020 - Dec 2020*  
 
 ![Oddle]({{ '/assets/img/oddle-logo.png' | absolute_url }}){: height="128px" width="128px"}   
 **The Oddle Company Pte. Ltd.**  
-Software Test Engineer
+Software Test Engineer  
 *Jan 2018 - May 2018*  
-Product Intern
+Product Intern  
 *Jun 2017 - Dec 2017*  
   
 ![NTU]({{ '/assets/img/ntu-logo.png' | absolute_url }}){: height="128px" width="128px"}  
@@ -29,15 +29,14 @@ Student Ambassador
 <hr>
 ![NTU]({{ '/assets/img/ntu-logo.png' | absolute_url }}){: height="128px" width="128px"}  
 **Nanyang Technological University**  
-*Computer Science (Specialisation in Data Science & Artificial Intelligence)*  
-*Honours (Merit)*  
+Computer Science (Specialisation in Data Science & Artificial Intelligence)  
+Honours (Merit)  
 *Aug 2015 - Dec 2020*  
   
 ![NTU]({{ '/assets/img/au-logo.jpg' | absolute_url }}){: height="128px" width="128px"}  
 **Asia Univeristy (Taiwan)**  
-*Artificial Intelligence*  
+Artificial Intelligence (Summer Exchange Programme)  
 *July 2019*  
-*Summer Exchange Programme*  
   
 ![NTU]({{ '/assets/img/jjc-logo.png' | absolute_url }}){: height="128px" width="128px"}  
 **Jurong Junior College**  
