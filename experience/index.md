@@ -9,19 +9,19 @@ permalink: /experience/
 <hr>
 ![Ryde]({{ '/assets/img/ryde-logo.png' | absolute_url }}){: height="128px" width="128px"}   
 **Ryde Technologies Pte. Ltd.**  
-*Data Scientist Intern*  
+Data Scientist Intern
 *Jul 2020 - Dec 2020*
 
 ![Oddle]({{ '/assets/img/oddle-logo.png' | absolute_url }}){: height="128px" width="128px"}   
 **The Oddle Company Pte. Ltd.**  
-*Software Test Engineer*  
+Software Test Engineer
 *Jan 2018 - May 2018*  
-*Product Intern*  
+Product Intern
 *Jun 2017 - Dec 2017*  
   
 ![NTU]({{ '/assets/img/ntu-logo.png' | absolute_url }}){: height="128px" width="128px"}  
 **Nanyang Technological University**  
-*Student Ambassador*  
+Student Ambassador  
 *Jun 2015 - Jun 2017*  
   
 <hr>
