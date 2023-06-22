@@ -7,13 +7,28 @@ permalink: /experience/
 <hr>
 # Professional
 <hr>
-
+ 
+<!-- Not working
 ![ByteDance/Tiktok]({{ '/assets/img/bytedance-tiktok-logo.png' | absolute_url }}){: height="64px"}        
 **ByteDance Pte. Ltd.**  
 Software Test Engineer  
 *Aug 2022 - Present*
 
 ![NCS]({{ '/assets/img/ncs-logo.png' | absolute_url }}){: height="64px"}      
+**NCS Pte. Ltd.**  
+Automation Engineer  
+*Mar 2021 - Jul 2022*
+
+-->
+
+<img src="{{ '/assets/img/bytedance-tiktok-logo.png' | absolute_url }}" alt="ByteDance/Tiktok" height="64px" />
+
+**ByteDance Pte. Ltd.**   
+Software Test Engineer  
+*Aug 2022 - Present*
+
+<img src="{{ '/assets/img/ncs-logo.png' | absolute_url }}" alt="NCS" height="64px" />
+    
 **NCS Pte. Ltd.**  
 Automation Engineer  
 *Mar 2021 - Jul 2022*
