@@ -11,6 +11,6 @@ I graduated from **Nanyang Technological University** specialising in **Data Sci
 
 Personally, I am deeply fascinated by the rapid advancements in A.I. and how widely they are integrated into our daily lives such as self-driving cars, medical diagnosis, facial and image recognition. As a huge math buff, I also like working with and mining large datasets.
 
-In my own free time, I like to explore the US stock market, research on technical analysis and lightly dabble in derivatives trading. Some of my other interests includes the gym, driving and poker.
+In my own free time, I like to explore and keep up-to-date on the US stock market. Some of my other interests includes the gym, driving and poker.
 
 If you have any queries or anything to share, I am always available at my socials below, otherwise feel free to drop me an email at <angtw1994@gmail.com>!
