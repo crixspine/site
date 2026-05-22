@@ -21,7 +21,7 @@ Automation Engineer
 
 -->
 
-<img src="{{ '/assets/img/bytedance-tiktok-logo.png' | absolute_url }}" alt="ByteDance/Tiktok" height="64px" />
+<img src="{{ '/assets/img/bytedance-logo.png' | absolute_url }}" alt="ByteDance/Tiktok" height="64px" />
 
 **ByteDance Pte. Ltd.**   
 Software Test Engineer  
