@@ -45,11 +45,11 @@ Computer Science (Specialisation in Data Science & Artificial Intelligence)
 Honours (Merit)  
 *Aug 2015 - Dec 2020*  
   
-![NTU]({{ '/assets/img/au-logo.jpg' | absolute_url }}){: height="128px" width="128px"}  
+![AsiaUniversity]({{ '/assets/img/au-logo.jpg' | absolute_url }}){: height="128px" width="128px"}  
 **Asia Univeristy (Taiwan)**  
 Artificial Intelligence (Summer Exchange Programme)  
 *July 2019*  
   
-![NTU]({{ '/assets/img/jjc-logo.png' | absolute_url }}){: height="128px" width="128px"}  
+![JJC]({{ '/assets/img/jjc-logo.png' | absolute_url }}){: height="128px" width="128px"}  
 **Jurong Junior College**  
 *Jan 2011 - Dec 2012*  
