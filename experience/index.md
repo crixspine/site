@@ -8,15 +8,20 @@ permalink: /experience/
 # Professional
 <hr>
 
-![ByteDance]({{ '/assets/img/bytedance-logo.png' | absolute_url }}){: height="128px" width="128px"}
-**ByteDance Pte. Ltd.**   
-Software Test Engineer  
-*Aug 2022 - May 2024*
+![Acronis]({{ '/assets/img/acronis-logo.png' | absolute_url }}){: height="128px" width="128px"}   
+**Acronis Asia Pte. Ltd.**  
+Software QA Engineer  
+*Feb 2025 - Apr 2026*  
 
-![NCS]({{ '/assets/img/ncs-logo.png' | absolute_url }}){: height="128px" width="128px"}
+![ByteDance]({{ '/assets/img/bytedance-logo.png' | absolute_url }}){: height="128px" width="128px"}   
+**ByteDance Pte. Ltd.**  
+Software Test Engineer  
+*Aug 2022 - May 2024*  
+
+![NCS]({{ '/assets/img/ncs-logo.png' | absolute_url }}){: height="128px" width="128px"}   
 **NCS Pte. Ltd.**  
 Automation Engineer  
-*Mar 2021 - Jul 2022*
+*Mar 2021 - Jul 2022*  
 
 ![Ryde]({{ '/assets/img/ryde-logo.png' | absolute_url }}){: height="128px" width="128px"}   
 **Ryde Technologies Pte. Ltd.**  
@@ -30,7 +35,7 @@ Software Test Engineer
 Product Intern  
 *Jun 2017 - Dec 2017*  
   
-![NTU]({{ '/assets/img/ntu-logo.png' | absolute_url }}){: height="128px" width="128px"}  
+![NTU]({{ '/assets/img/ntu-logo.png' | absolute_url }}){: height="128px" width="128px"}   
 **Nanyang Technological University**  
 Student Ambassador  
 *Jun 2015 - Jun 2017*  
